@@ -39,4 +39,4 @@ Collection Data Type yang digunakan berupa data list yang berada di dalam list. 
     Menu to close the program
 
 ## Contribute
-If you'd like to contribute, check out https://github.com/rafikawidya1/capstone_project, thankyou
+If you'd like to contribute, check out https://github.com/rafikawidya1/Capstone_Project_Perpustakaan, thankyou
